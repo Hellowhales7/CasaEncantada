@@ -1,3 +1,33 @@
 # CasaEncantada
-https://github.com/Hellowhales7/CasaEncantada/assets/113617650/bb9284e0-827e-49ae-a213-e54fbc2b8d24
+
+![Game Logo or Screenshot](link_to_image)
+
+## Description
+
+Briefly introduce your horror game. Include the setting, main plot, and any unique features that make your game stand out.
+
+## Features
+
+- Atmospheric horror experience
+- Unique storyline
+- Immersive gameplay mechanics
+- Stunning visuals and sound effects
+- Multiple endings
+- [Add any other features specific to your game]
+
+## Screenshots
+
+![Screenshot 1](link_to_screenshot1)
+![Screenshot 2](link_to_screenshot2)
+![Screenshot 3](link_to_screenshot3)
+
+## How to Play
+
+Include instructions on how to install and run your game. If there are any dependencies or special considerations, mention them here.
+
+### Prerequisites
+
+List any software, libraries, or tools that players need to have installed before running the game.
+
+
 
