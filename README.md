@@ -1,7 +1,7 @@
 <h1 align="center"><b>CASA ENCANTADA</b></h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=Python&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 ![Game Logo or Screenshot](link_to_image)
 
 ## Description
