@@ -10,6 +10,10 @@
 </p>
 <p align="center"> Trailer</p>
 
+
+https://github.com/Hellowhales7/CasaEncantada/assets/113617650/fa9e8ede-dd53-4b82-8a1f-deebdfd98a04
+
+
 # Game Overview 
 
 기묘하고 미스테리한 경험을 선사해줄 **아름다운 저택, 까사 엔깐따다**로 당신을 초대합니다! 
