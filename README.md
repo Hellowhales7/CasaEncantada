@@ -1,5 +1,5 @@
 <h1 align="center"><b>CASA ENCANTADA</b></h1>
-<img src="https://img.shields.io/badge/Unreal-0E1128?style=plastic&logo=unrealengine&logoColor=white">
+
 # 까사 엔깐따다 (아름다운 저택)**
 
 ## 게임 소개
@@ -38,7 +38,7 @@
 
 ## 사양 및 개발환경
 - **윈도우 플레이 지원**
-- **언리얼 엔진 개발**
+- **언리얼 엔진 개발** <img src="https://img.shields.io/badge/Unreal-0E1128?style=plastic&logo=unrealengine&logoColor=white">
 
 ## 라이선스 표기
 
