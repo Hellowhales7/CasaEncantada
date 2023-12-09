@@ -38,7 +38,7 @@
 
 ## 사양 및 개발환경
 - **윈도우 플레이 지원**
-- <img src="https://img.shields.io/badge/Unreal-0E1128?style=plastic&logo=unrealengine&logoColor=white">**언리얼 엔진 개발** <img src="https://img.shields.io/badge/Unreal-0E1128?style=plastic&logo=unrealengine&logoColor=white">
+- **<img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white">언리얼 엔진 개발**
 
 ## 라이선스 표기
 
