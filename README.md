@@ -6,12 +6,14 @@
   <img src="https://img.shields.io/badge/Stealth-333333">
   <img src="https://img.shields.io/badge/Puzzle-orange">
   <img src="https://img.shields.io/badge/Horror-red">
-  
-</p>
-# 까사 엔깐따다 (아름다운 저택)
 
-## 게임 소개
+</p>
+
+
+## Game Overview
 **잠입** • **호러** • **퍼즐** • **추리** • **사운드플레이** • **멀티엔딩**
+
+기묘하고 미스테리한 경험을 선사해줄 <b style="color: red;">아름다운 저택, 까사 엔깐따다</b>로 당신을 초대합니다! 
 
 ### 줄거리
 1997년, 기자 조나단에게 1년 전 실종된 선배 기자 케이티가 보낸 편지가 도착합니다. 케이티는 편지에서 헤레디 부부의 범죄를 알아냈다며, 저택에 잠입해 증거를 가져오겠다고 한 뒤 실종됐는데요. 조나단은 선배의 마지막 취재를 대신 완수하기 위해, 저택에 잠입해 증거를 가져오기로 결심합니다.
