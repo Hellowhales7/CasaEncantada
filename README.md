@@ -9,8 +9,10 @@
 </p>
 
 
-## Game Overview
+# Game Overview 
 **잠입** • **호러** • **퍼즐** • **추리** • **사운드플레이** • **멀티엔딩**
+![loadingLetterKor](https://github.com/Hellowhales7/CasaEncantada/assets/113617650/47bd7bcb-1f08-4749-a339-176bb94cdad8)
+
 
 기묘하고 미스테리한 경험을 선사해줄 **아름다운 저택, 까사 엔깐따다**로 당신을 초대합니다! 
 당신은 무사히 저택을 빠져나갈 수 있을까요?
