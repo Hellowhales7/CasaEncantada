@@ -1,5 +1,5 @@
-<h1 align="center"><b>CASA ENCANTADA</b></h1>
-![Logo](https://github.com/Hellowhales7/CasaEncantada/assets/113617650/93940090-12e0-40a2-b943-5371776b4b6e)
+<h1 align="center"><b>CASA ENCANTADA</b><img width="4.5%" height="4.5%" align="center" src="https://github.com/Hellowhales7/CasaEncantada/assets/113617650/93940090-12e0-40a2-b943-5371776b4b6e" ></h1>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/made by-익명의 드래곤-red">
@@ -11,15 +11,9 @@
 <p align="center"> Trailer</p>
 
 # Game Overview 
-**잠입** • **호러** • **퍼즐** • **추리** • **사운드플레이** • **멀티엔딩**
-
-
 
 기묘하고 미스테리한 경험을 선사해줄 **아름다운 저택, 까사 엔깐따다**로 당신을 초대합니다! 
 당신은 무사히 저택을 빠져나갈 수 있을까요?
-
-
-
 
 
 ### 줄거리
@@ -45,9 +39,11 @@
 
 - **다채로운 3D 공간 퍼즐**
   - 긴 물건으로 멀리서 열쇠 꺼내기
-  - 움직이는 애니메이션 비디오 힌트 제공 (다시보기 지원)
+  - 움직이는 애니메이션 비디오 힌트 
   - 순서대로 책을 눌러 책장 열기
   - 자명종 소리로 적 유인하기 등
+  - 다양한 힌트를 이용해 퍼즐들을 풀어나가세요.
+    ![Under2-2](https://github.com/Hellowhales7/CasaEncantada/assets/113617650/2c375551-4a95-4109-8ea7-24cee4137f99)
 
 - **마지막으로, 진실을 밝혀내세요**
   - 헤레디 부부의 비밀 폭로 : 증거 1개
