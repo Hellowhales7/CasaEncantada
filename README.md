@@ -1,5 +1,5 @@
 <h1 align="center"><b>CASA ENCANTADA</b></h1>
-
+<img src="https://img.shields.io/badge/Unreal-0E1128?style=plastic&logo=unrealengine&logoColor=white">
 # 까사 엔깐따다 (아름다운 저택)**
 
 ## 게임 소개
@@ -41,9 +41,9 @@
 - **언리얼 엔진 개발**
 
 ## 라이선스 표기
-(한꺼번에 정리해드리겠습니다!)
 
 
+<p></p>
 ## Game Overview
 **Stealth** • **Horror** • **Puzzle** • **Investigation** • **Soundplay** • **Multiple Endings**
 
@@ -81,7 +81,6 @@ Try to obtain all three pieces of evidence! (Different endings based on the numb
 - **Developed with Unreal Engine**
 
 ## License
-(Will provide a consolidated license listing soon)
 
 
 
