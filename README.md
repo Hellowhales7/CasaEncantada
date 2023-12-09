@@ -1,37 +1,46 @@
 <h1 align="center"><b>CASA ENCANTADA</b></h1>
-<p align="center">
+**까사 엔깐따다 (아름다운 저택)**
 
+## Game Overview
+**Stealth** • **Horror** • **Puzzle** • **Investigation** • **Soundplay** • **Multiple Endings**
 
-<img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat&logo=unrealengine&logoColor=white"/>
- 
-![Game Logo or Screenshot](link_to_image)
+### Story
+In 1997, journalist Jonathan receives a letter from his colleague Katie, who went missing a year ago. Katie claimed to have uncovered the crimes of the Heredi couple and disappeared after infiltrating their mansion to gather evidence. Determined to complete his colleague's last investigation, Jonathan decides to infiltrate the mansion and uncover the truth behind the Heredi couple's crimes and his colleague's disappearance.
 
-## Description
+### Game Features
+- **Time-Shifting System**
+  - Plant bamboo seeds in the past to obtain a fully grown bamboo pole in the present.
+  - Use a malfunctioning TV in the present that is functional in the past.
+  - Experience a terrifying past world and a bizarre present world in a single game.
 
-Briefly introduce your horror game. Include the setting, main plot, and any unique features that make your game stand out.
+- **Return to Reality**
+  - Find candles and matches first.
+  - Press Q to light the candle and escape from the past to reality.
 
-## Features
+- **Stealth Infiltration**
+  - Real World: Avoid being caught by the mansion's couple. Close doors and hide to deceive them.
+  - Past World: Avoid being captured by unjust spirits. Use tricks to escape.
 
-- Atmospheric horror experience
-- Unique storyline
-- Immersive gameplay mechanics
-- Stunning visuals and sound effects
-- Multiple endings
-- [Add any other features specific to your game]
+- **Diverse 3D Space Puzzles**
+  - Extract keys from a distance using long objects.
+  - Animated video hints with replay support.
+  - Open bookshelves by pressing books in a specific order.
+  - Lure enemies with the sound of a bell, and more.
 
-## Screenshots
+- **Finally, Uncover the Truth**
+  - Expose the secrets of the Heredi couple: Collect 1 piece of evidence.
+  - Discover the truth about the colleague's disappearance: Collect 2 pieces of evidence.
 
-![Screenshot 1](link_to_screenshot1)
-![Screenshot 2](link_to_screenshot2)
-![Screenshot 3](link_to_screenshot3)
+Try to obtain all three pieces of evidence! (Different endings based on the number of final evidence collected)
 
-## How to Play
+## Specifications and Development Environment
+- **Windows Play Support**
+- **Developed with Unreal Engine**
 
-Include instructions on how to install and run your game. If there are any dependencies or special considerations, mention them here.
+## License
+(Will provide a consolidated license listing soon)
 
-### Prerequisites
-
-List any software, libraries, or tools that players need to have installed before running the game.
+**Feel free to use this content in your README, and adjust it as needed.**
 
 
 
