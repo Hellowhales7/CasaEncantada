@@ -92,7 +92,7 @@ https://github.com/Hellowhales7/CasaEncantada/assets/113617650/a18e2cea-e5b9-47a
 - 저택에서 무사히 돌아오길...
 
 ## 추가 자료
-- [Trailer](https://www.youtube.com/watch?v=ZRZh6lUqY44)
+- [Trailer1,2](https://www.youtube.com/watch?v=ZRZh6lUqY44) 함께 보기
 - [공략 영상](https://www.youtube.com/watch?v=AXA1yyu3af8)
 - [프레젠테이션 영상](https://www.youtube.com/watch?v=tJaanoZPS_U)
 
