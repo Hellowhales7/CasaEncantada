@@ -98,6 +98,8 @@ https://github.com/Hellowhales7/CasaEncantada/assets/113617650/a18e2cea-e5b9-47a
 
 
 ## 라이선스 표기
+<게임>
+
 [이미지]
 - 편지 / 게임 오버 / 인벤토리 / 게임 엔딩 화면 배경 이미지
 <a href="[https://kr.freepik.com/free-photo/grunge-style-paper-texture-background_5493173.htm#query=낡은 종이&position=38&from_view=search&track=ais](https://kr.freepik.com/free-photo/grunge-style-paper-texture-background_5493173.htm#query=%EB%82%A1%EC%9D%80%20%EC%A2%85%EC%9D%B4&position=38&from_view=search&track=ais)">작가 kjpargeter</a> 출처 Freepik (출처 필수)
