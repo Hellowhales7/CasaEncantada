@@ -12,6 +12,8 @@
 https://github.com/Hellowhales7/CasaEncantada/assets/113617650/a18e2cea-e5b9-47a2-aab9-6d9d1e76492a
 
 # Game Overview 
+[CasaEncantada Download](https://github.com/Hellowhales7/CasaEncantada/releases/download/GameDownload/CasaEncantada.zip)
+
 
 기묘하고 미스테리한 경험을 선사해줄 **아름다운 저택, 까사 엔깐따다**로 당신을 초대합니다! 
 당신은 무사히 저택을 빠져나갈 수 있을까요?
