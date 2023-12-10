@@ -30,7 +30,7 @@ https://github.com/Hellowhales7/CasaEncantada/assets/113617650/a18e2cea-e5b9-47a
 
 
 ### 게임 플레이
-- **환경**
+- **게임에 몰입하게 만드는 환경**
   - 겨울에 어울리는 시원한 눈이 내리는 환경!
     
      <img width="50%" height="50%" align="center" src="https://github.com/Hellowhales7/CasaEncantada/assets/113617650/d8cf9568-63bd-4e80-a172-0515fa09562b" >
