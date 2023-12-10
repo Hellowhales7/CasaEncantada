@@ -35,7 +35,7 @@ https://github.com/Hellowhales7/CasaEncantada/assets/113617650/a18e2cea-e5b9-47a
 - **현실로 돌아오세요**
   - 먼저 양초와 성냥을 찾으세요
   - Q키를 눌러 양초에 불을 붙이세요 -> 과거에서 현실로 탈출!
-  - 
+    
   <img width="50%" height="50%" align="center" src="https://github.com/Hellowhales7/CasaEncantada/assets/113617650/65150007-16ca-406b-9813-90d4ae7aa972" >
 
 - **잠입**
@@ -47,7 +47,7 @@ https://github.com/Hellowhales7/CasaEncantada/assets/113617650/a18e2cea-e5b9-47a
   - 긴 물건으로 멀리서 열쇠 꺼내기
   - 움직이는 애니메이션 비디오 힌트
 
-  <img width="50%" height="50%" align="center" src="https://github.com/Hellowhales7/CasaEncantada/assets/113617650/38eebcb0-7987-4adb-a794-6656fac6c85d" >
+  <p><img width="50%" height="50%" align="center" src="https://github.com/Hellowhales7/CasaEncantada/assets/113617650/38eebcb0-7987-4adb-a794-6656fac6c85d" ></p>
  
   <p></p>
 
