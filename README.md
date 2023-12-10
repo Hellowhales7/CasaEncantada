@@ -8,11 +8,8 @@
   <img src="https://img.shields.io/badge/Puzzle-orange">
   <img src="https://img.shields.io/badge/Horror-red">
 </p>
-<p align="center"> Trailer</p>
 
-
-https://github.com/Hellowhales7/CasaEncantada/assets/113617650/fa9e8ede-dd53-4b82-8a1f-deebdfd98a04
-
+https://github.com/Hellowhales7/CasaEncantada/assets/113617650/a18e2cea-e5b9-47a2-aab9-6d9d1e76492a
 
 # Game Overview 
 
@@ -23,10 +20,11 @@ https://github.com/Hellowhales7/CasaEncantada/assets/113617650/fa9e8ede-dd53-4b8
 ### 줄거리
 1997년, 기자 조나단에게 1년 전 실종된 선배 기자 케이티가 보낸 편지가 도착합니다. 케이티는 편지에서 헤레디 부부의 범죄를 알아냈다며, 저택에 잠입해 증거를 가져오겠다고 한 뒤 실종됐는데요. 조나단은 선배의 마지막 취재를 대신 완수하기 위해, 저택에 잠입해 증거를 가져오기로 결심합니다.
 
-<img width="60%" height="60%" align="center" src="https://github.com/Hellowhales7/CasaEncantada/assets/113617650/47bd7bcb-1f08-4749-a339-176bb94cdad8" >
+<img width="100%" height="60%" align="center" src="https://github.com/Hellowhales7/CasaEncantada/assets/113617650/5d461068-4d2f-46d7-94be-1ba3d4f0336f" >
 
 
-### 게임 소개
+
+### 게임 플레이
 - **과거와 현재를 오가는 시스템**
   - 과거에서 대나무 씨앗을 심어 현실에서 다 자란 대나무 장대를 얻으세요.
   - 현실에서 고장난 티비는 과거에서 사용 가능해요.
@@ -35,6 +33,9 @@ https://github.com/Hellowhales7/CasaEncantada/assets/113617650/fa9e8ede-dd53-4b8
 - **현실로 돌아오세요**
   - 먼저 양초와 성냥을 찾으세요
   - Q키를 눌러 양초에 불을 붙이세요 -> 과거에서 현실로 탈출!
+  <img width="50%" height="50%" align="center" src="https://github.com/Hellowhales7/CasaEncantada/assets/113617650/65150007-16ca-406b-9813-90d4ae7aa972" >
+
+
 
 - **잠입**
   - 현실 세계: 저택의 부부에게 들키지 마세요.
@@ -46,8 +47,10 @@ https://github.com/Hellowhales7/CasaEncantada/assets/113617650/fa9e8ede-dd53-4b8
   - 움직이는 애니메이션 비디오 힌트 
   - 순서대로 책을 눌러 책장 열기
   - 자명종 소리로 적 유인하기 등
-  - 다양한 힌트를 이용해 퍼즐들을 풀어나가세요.
-    ![Under2-2](https://github.com/Hellowhales7/CasaEncantada/assets/113617650/2c375551-4a95-4109-8ea7-24cee4137f99)
+  - 다양한 힌트들을 이용해 퍼즐들을 풀어나가세요.
+    
+  <img width="80%" height="40%" align="center" src="https://github.com/Hellowhales7/CasaEncantada/assets/113617650/36866ec7-7b26-4a8a-b962-852d87f6c360" >
+
 
 - **마지막으로, 진실을 밝혀내세요**
   - 헤레디 부부의 비밀 폭로 : 증거 1개
