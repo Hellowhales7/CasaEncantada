@@ -66,6 +66,7 @@ https://github.com/Hellowhales7/CasaEncantada/assets/113617650/a18e2cea-e5b9-47a
 ## 다운로드
 - 파일 경로에 한글이 없어야 원할한 게임 진행이 가능합니다!
 - 다운로드 링크 [CasaEncantada](https://github.com/Hellowhales7/CasaEncantada/releases/download/GameDownload/CasaEncantada.zip)
+- 저택에서 무사히 돌아오길...
 
 
 ## 라이선스 표기
