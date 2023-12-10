@@ -98,11 +98,9 @@ https://github.com/Hellowhales7/CasaEncantada/assets/113617650/a18e2cea-e5b9-47a
 
 
 ## 라이선스 표기
-<게임 라이선스 파일>
-
 [이미지]
 
-- 편지 / 게임 오버 / 인벤토리 / 게임 엔딩 화면 배경 이미지
+- 편지 / 게임 오버 / 인벤토리 / 게임 엔딩 화면 배경 이미지 
 <a href="[https://kr.freepik.com/free-photo/grunge-style-paper-texture-background_5493173.htm#query=낡은 종이&position=38&from_view=search&track=ais](https://kr.freepik.com/free-photo/grunge-style-paper-texture-background_5493173.htm#query=%EB%82%A1%EC%9D%80%20%EC%A2%85%EC%9D%B4&position=38&from_view=search&track=ais)">작가 kjpargeter</a> 출처 Freepik (출처 필수)
 
 - 비밀의 방 벽지
@@ -175,6 +173,25 @@ https://github.com/Hellowhales7/CasaEncantada/assets/113617650/a18e2cea-e5b9-47a
 - "벌들이 웅웅거리는 소리"
 2019년 한국저작권위원회 / CC BY / 공유마당에서 무료로 다운 가능
 (https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13220827&menuNo=200020)
+
+- "발_시멘트_운동화_남자_달리기"
+2020년 한국저작권위원회 / CC BY / 공유마당에서 무료로 다운 가능
+(https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13264199&menuNo=200020)
+
+- "남자_호흡_달리기_01"
+2020년 한국저작권위원회 / CC BY / 공유마당에서 무료로 다운 가능
+(https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13263961&menuNo=200020)
+
+- "남자_호흡_겁에질림_01"
+2020년 한국저작권위원회 / CC BY / 공유마당에서 무료로 다운 가능
+(https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13263948&menuNo=200020)
+
+
+
+
+
+
+
 
 
 
