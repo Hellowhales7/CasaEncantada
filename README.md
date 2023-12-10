@@ -64,7 +64,9 @@ https://github.com/Hellowhales7/CasaEncantada/assets/113617650/a18e2cea-e5b9-47a
 - <img src="https://img.shields.io/badge/Unreal-0E1128?logo=unrealengine">**언리얼 엔진 개발**
 
 ## 다운로드
-[CasaEncantada](https://github.com/Hellowhales7/CasaEncantada/releases/tag/GameDownload)
+- 파일 경로에 한글이 없어야 원할한 게임 진행이 가능합니다!
+- 다운로드 링크 [CasaEncantada](https://github.com/Hellowhales7/CasaEncantada/releases/download/GameDownload/CasaEncantada.zip)
+
 
 ## 라이선스 표기
 
