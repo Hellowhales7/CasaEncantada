@@ -44,12 +44,13 @@ https://github.com/Hellowhales7/CasaEncantada/assets/113617650/a18e2cea-e5b9-47a
   - 현실에서 고장난 티비는 과거에서 사용 가능해요.
   - 공포스러운 과거 세계와 기묘한 현실 세계를 한 게임에서 경험하세요!
 
-- **현실로 돌아오세요**
+- **안전하게 현실로 돌아오세요**
   - 먼저 양초와 성냥을 찾으세요
   - Q키를 눌러 양초에 불을 붙이세요 -> 과거에서 현실로 탈출!
     
     <img width="50%" height="50%" align="center" src="https://github.com/Hellowhales7/CasaEncantada/assets/113617650/65150007-16ca-406b-9813-90d4ae7aa972" >
-
+  - 안전한 장소에서 귀한해야 한다는 것을 명심하세요!
+    
 - **잠입**
   - 현실 세계: 저택의 부부에게 들키지 마세요.
   - 과거 세계: 억울한 원혼에게 잡히지 마세요.
