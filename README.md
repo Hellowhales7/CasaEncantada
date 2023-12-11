@@ -12,6 +12,33 @@
 https://github.com/Hellowhales7/CasaEncantada/assets/113617650/a18e2cea-e5b9-47a2-aab9-6d9d1e76492a
 
 
+# <img width="4.5%" height="4.5%" align="center" src="https://github.com/Hellowhales7/CasaEncantada/assets/113617650/0b205658-12c1-4d88-aa2f-3546f12231ce" >Game Overview 
+
+
+
+<p>기묘하고 미스테리한 경험을 선사해줄 <strong>아름다운 저택, 까사 엔깐따다</strong>로 당신을 초대합니다! </p>
+당신은 무사히 저택을 빠져나갈 수 있을까요?
+<p></p>
+
+[CasaEncantada Download](https://github.com/Hellowhales7/CasaEncantada/releases/download/GameDownload/CasaEncantada.zip)
+
+### 줄거리
+1997년, 기자 조나단에게 1년 전 실종된 선배 기자 케이티가 보낸 편지가 도착합니다. 케이티는 편지에서 헤레디 부부의 범죄를 알아냈다며, 저택에 잠입해 증거를 가져오겠다고 한 뒤 실종됐는데요. 조나단은 선배의 마지막 취재를 대신 완수하기 위해, 저택에 잠입해 증거를 가져오기로 결심합니다.
+
+  <img width="100%" height="60%" align="center" src="https://github.com/Hellowhales7/CasaEncantada/assets/113617650/5d461068-4d2f-46d7-94be-1ba3d4f0336f" >
+
+
+
+### 게임 플레이
+- **게임에 몰입하게 만드는 환경**
+  - 원
+- 강민구
+- 박승현
+- 배형석
+- 오수진
+- 홍유진
+- SUPKASEMSUK PARAMA
+
 ## 라이선스 표기
 <게임>
 
@@ -69,6 +96,15 @@ https://github.com/Hellowhales7/CasaEncantada/assets/113617650/a18e2cea-e5b9-47a
 2020년 한국저작권위원회 / CC BY / 공유마당에서 무료로 다운 가능 [Link](https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13263961&menuNo=200020)
 - "남자_호흡_겁에질림_01"
 2020년 한국저작권위원회 / CC BY / 공유마당에서 무료로 다운 가능 [Link](https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13263948&menuNo=200020)
+
+
+
+
+
+
+
+
+
 
 
 
