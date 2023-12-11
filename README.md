@@ -31,13 +31,71 @@ https://github.com/Hellowhales7/CasaEncantada/assets/113617650/a18e2cea-e5b9-47a
 
 ### 게임 플레이
 - **게임에 몰입하게 만드는 환경**
-  - 원
-- 강민구
-- 박승현
-- 배형석
-- 오수진
-- 홍유진
-- SUPKASEMSUK PARAMA
+  - 겨울에 어울리는 시원하게 내리는 눈!
+    
+     <img width="50%" height="50%" align="center" src="https://github.com/Hellowhales7/CasaEncantada/assets/113617650/d8cf9568-63bd-4e80-a172-0515fa09562b" >
+
+  - 과거와 현실의 확연한 분위기 차이
+    
+      <img width="100%" height="60%" align="center" src="https://github.com/Hellowhales7/CasaEncantada/assets/113617650/e2cebd9a-c96b-4a59-9891-714442050236" >
+ 
+- **과거와 현재를 오가는 시스템과 퍼즐**
+  - 과거에서 대나무 씨앗을 심어 현실에서 다 자란 대나무 장대를 얻으세요.
+  - 현실에서 고장난 티비는 과거에서 사용 가능해요.
+  - 공포스러운 과거 세계와 기묘한 현실 세계를 한 게임에서 경험하세요!
+
+- **안전하게 현실로 돌아오세요**
+  - 먼저 양초와 성냥을 찾으세요
+  - Q키를 눌러 양초에 불을 붙이세요 -> 과거에서 현실로 탈출!
+    
+    <img width="50%" height="50%" align="center" src="https://github.com/Hellowhales7/CasaEncantada/assets/113617650/65150007-16ca-406b-9813-90d4ae7aa972" >
+  - 안전한 장소에서 귀한해야 한다는 것을 명심하세요!
+    
+- **잠입**
+  - 현실 세계: 저택의 부부에게 들키지 마세요.
+  - 과거 세계: 억울한 원혼에게 잡히지 마세요.
+    문을 닫고 숨어 그들을 속이세요.
+
+- **다채로운 3D 공간 퍼즐**
+  - 긴 물건으로 멀리서 열쇠 꺼내기
+  - 움직이는 애니메이션 비디오 힌트
+
+    <img width="50%" height="50%" align="center" src="https://github.com/Hellowhales7/CasaEncantada/assets/113617650/38eebcb0-7987-4adb-a794-6656fac6c85d" >
+ 
+  <p></p>
+
+  - 순서대로 책을 눌러 책장 열기
+    
+    <img width="50%" height="50%" align="center" src="https://github.com/Hellowhales7/CasaEncantada/assets/113617650/4db0b429-b18f-4f26-88a3-d9f091af602d" >
+  <p></p>
+  
+  - 자명종 소리로 적 유인하기 등
+  - 다양한 힌트들을 이용해 퍼즐들을 풀어나가세요.
+    
+    <img width="80%" height="40%" align="center" src="https://github.com/Hellowhales7/CasaEncantada/assets/113617650/36866ec7-7b26-4a8a-b962-852d87f6c360" >
+
+
+- **마지막으로, 진실을 밝혀내세요**
+  - 헤레디 부부의 비밀 폭로 : 증거 1개
+  - 선배의 실종에 대한 진실 : 증거 2개
+
+세가지 증거를 모두 얻어보세요!
+(최종 증거의 개수에 따라 엔딩이 달라집니다)
+
+## 사양 및 개발환경
+- <img src="https://img.shields.io/badge/Windows-0170CE?logo=windows">**윈도우 플레이 지원**
+- <img src="https://img.shields.io/badge/Unreal-0E1128?logo=unrealengine">**언리얼 엔진 개발**
+
+## 다운로드
+- 파일 경로에 한글이 없어야 원할한 게임 진행이 가능합니다!
+- 다운로드 링크 [CasaEncantada](https://github.com/Hellowhales7/CasaEncantada/releases/download/GameDownload/CasaEncantada.zip)
+- 저택에서 무사히 돌아오길...
+
+## 추가 자료
+- [Trailer1,2](https://www.youtube.com/watch?v=ZRZh6lUqY44) 함께 보기
+- [공략 영상](https://www.youtube.com/watch?v=AXA1yyu3af8)
+- [프레젠테이션 영상](https://www.youtube.com/watch?v=tJaanoZPS_U)
+
 
 ## 라이선스 표기
 <게임>
@@ -96,15 +154,6 @@ https://github.com/Hellowhales7/CasaEncantada/assets/113617650/a18e2cea-e5b9-47a
 2020년 한국저작권위원회 / CC BY / 공유마당에서 무료로 다운 가능 [Link](https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13263961&menuNo=200020)
 - "남자_호흡_겁에질림_01"
 2020년 한국저작권위원회 / CC BY / 공유마당에서 무료로 다운 가능 [Link](https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13263948&menuNo=200020)
-
-
-
-
-
-
-
-
-
 
 
 
