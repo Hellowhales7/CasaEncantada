@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Horror-red">
 </p>
 
-[https://github.com/Hellowhales7/CasaEncantada/assets/113617650/a18e2cea](https://github.com/Hellowhales7/CasaEncantada/assets/113617650/a18e2cea-e5b9-47a2-aab9-6d9d1e76492a)
+https://github.com/Hellowhales7/CasaEncantada/assets/113617650/a18e2cea-e5b9-47a2-aab9-6d9d1e76492a
 
 
 ## 라이선스 표기
