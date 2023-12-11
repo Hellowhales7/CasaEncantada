@@ -96,6 +96,13 @@ https://github.com/Hellowhales7/CasaEncantada/assets/113617650/a18e2cea-e5b9-47a
 - [공략 영상](https://www.youtube.com/watch?v=AXA1yyu3af8)
 - [프레젠테이션 영상](https://www.youtube.com/watch?v=tJaanoZPS_U)
 
+## 다운로드
+  - 강민구
+  - 박승현
+  - 배형석
+  - 오수진
+  - 홍유진
+  - SUPKASEMSUK PARAMA
 
 ## 라이선스 표기
 <게임>
